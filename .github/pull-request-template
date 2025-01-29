@@ -1,0 +1,29 @@
+## What type of PR is this? (check all applicable)
+ - []  New Feature
+ - []  Enhancement
+ - []  Bug
+## Describe about you code changes
+<!--
+Provide additional context for the change 
+-->
+## Reference and documents
+<!--
+Please link issue numbers: Fixes ABC #123
+-->
+## Screenshorts/Recordings
+<!--
+Visual changes requere screenshots
+--> 
+## Created Unit Tests
+- [] Yes
+- [] No
+## Created Functional Tests
+- [] Yes
+- [] No
+## Testing Criterea
+<!--
+Briefly instruction how the reviewers can test the changes
+-->
+## Did you follow the conventions set by BL Dev team or project specific? 
+- [] Yes
+- [] No
